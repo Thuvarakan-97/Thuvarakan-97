@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/thuvarakan1997" target="blank"><img src="https://img.shields.io/twitter/follow/thuvarakan1997?logo=twitter&style=for-the-badge" alt="thuvarakan1997" /></a> </p>
 
-- ❤️ I love programming and love solving real world problems using a systematic approach. **I love programming and love solving real world problems using a systematic approach.**
+- ❤️ I love programming and love solving real world problems using a systematic approach. 
+- 🌱 Currently I learning some of new technologies
 
 - 📫 How to reach me **p.thuvarakan1997@gmail.com**
 
