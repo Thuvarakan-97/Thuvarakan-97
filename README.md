@@ -10,7 +10,7 @@
 - ❤️ I love programming and love solving real world problems using a systematic approach. 
 - 🌱 Currently I learning some of new technologies
 
-- 📫 How to reach me **p.thuvarakan1997@gmail.com**
+- 📧 Reach me @ **p.thuvarakan1997@gmail.com**
 
 - ⚡ Fun fact **I am Always Try to Cool Myself😊**
 
